@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\taskManagerApplication\taskManager.api\out\TaskManager.Api.exe
+C:\Users\HP\Documents\taskManagerApplication\taskManager.api\out\appsettings.Development.json
+C:\Users\HP\Documents\taskManagerApplication\taskManager.api\out\appsettings.json
+C:\Users\HP\Documents\taskManagerApplication\taskManager.api\out\TaskManager.Api.dll
+C:\Users\HP\Documents\taskManagerApplication\taskManager.api\out\TaskManager.Api.deps.json
+C:\Users\HP\Documents\taskManagerApplication\taskManager.api\out\TaskManager.Api.runtimeconfig.json
+C:\Users\HP\Documents\taskManagerApplication\taskManager.api\out\TaskManager.Api.pdb
+C:\Users\HP\Documents\taskManagerApplication\taskManager.api\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\Documents\taskManagerApplication\taskManager.api\out\Microsoft.OpenApi.dll

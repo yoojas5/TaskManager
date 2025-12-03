@@ -1,0 +1,13 @@
+C:\Users\HP\Documents\taskManagerApplication\out\TaskManager.Api.exe
+C:\Users\HP\Documents\taskManagerApplication\out\out\web.config
+C:\Users\HP\Documents\taskManagerApplication\out\appsettings.Development.json
+C:\Users\HP\Documents\taskManagerApplication\out\appsettings.json
+C:\Users\HP\Documents\taskManagerApplication\out\out\appsettings.Development.json
+C:\Users\HP\Documents\taskManagerApplication\out\out\appsettings.json
+C:\Users\HP\Documents\taskManagerApplication\out\out\TaskManager.Api.deps.json
+C:\Users\HP\Documents\taskManagerApplication\out\out\TaskManager.Api.runtimeconfig.json
+C:\Users\HP\Documents\taskManagerApplication\out\out\TaskManager.Api.staticwebassets.endpoints.json
+C:\Users\HP\Documents\taskManagerApplication\out\TaskManager.Api.dll
+C:\Users\HP\Documents\taskManagerApplication\out\TaskManager.Api.deps.json
+C:\Users\HP\Documents\taskManagerApplication\out\TaskManager.Api.runtimeconfig.json
+C:\Users\HP\Documents\taskManagerApplication\out\TaskManager.Api.pdb

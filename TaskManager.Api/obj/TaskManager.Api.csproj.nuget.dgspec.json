@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\taskManagerApplication\\TaskManager.Api\\TaskManager.Api.csproj": {}
+    "C:\\Users\\HP\\Documents\\taskManagerApplication\\taskManager.api\\TaskManager.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\taskManagerApplication\\TaskManager.Api\\TaskManager.Api.csproj": {
+    "C:\\Users\\HP\\Documents\\taskManagerApplication\\taskManager.api\\TaskManager.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\taskManagerApplication\\TaskManager.Api\\TaskManager.Api.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\taskManagerApplication\\taskManager.api\\TaskManager.Api.csproj",
         "projectName": "TaskManager.Api",
-        "projectPath": "C:\\Users\\HP\\Documents\\taskManagerApplication\\TaskManager.Api\\TaskManager.Api.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\taskManagerApplication\\taskManager.api\\TaskManager.Api.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\taskManagerApplication\\TaskManager.Api\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\taskManagerApplication\\taskManager.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,12 +43,6 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[10.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
