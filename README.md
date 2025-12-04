@@ -15,6 +15,8 @@ How to run locally:
   - dotnet restore
   - dotnet run
 - API will be available at: http://localhost:5232
+- Live API:
+https://sincere-courtesy-production-b979.up.railway.app/api/tasks
 
 Available endpoints:
 - GET /api/tasks — get all tasks 
